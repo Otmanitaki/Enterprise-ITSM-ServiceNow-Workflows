@@ -52,4 +52,7 @@ Closing the loop to maintain accurate Configuration Management Database (CMDB) r
 * **Hardware Troubleshooting:** Power cycling, BIOS/hibernation state resets, peripheral workarounds.
 * **Soft Skills:** VIP Stakeholder management, high-pressure crisis resolution, clear documentation.
 
+---
+
+**Developed by [Taki] | Systems Infrastructure & IT Operations Portfolio**
   
